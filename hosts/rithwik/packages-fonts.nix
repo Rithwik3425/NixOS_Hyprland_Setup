@@ -47,6 +47,7 @@
     rustc
     fastfetch
     neovim
+    zip
     plasma5Packages.kdeconnect-kde
     (mpv.override {scripts = [mpvScripts.mpris];}) # with tray
     ranger
