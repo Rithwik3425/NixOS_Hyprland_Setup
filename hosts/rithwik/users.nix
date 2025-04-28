@@ -61,6 +61,8 @@ in
         alias la='ls -a'
         alias lla='ls -la'
         alias lt='ls --tree'
+        alias cls='clear'
+        alias snrfr='sudo nixos-rebuild switch --flake .#rithwik'
 
         source <(fzf --zsh);
         HISTFILE=~/.zsh_history;

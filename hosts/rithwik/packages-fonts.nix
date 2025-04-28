@@ -98,6 +98,7 @@
     xarchiver
     yad
     yt-dlp
+    python3Full
 
     #waybar  # if wanted experimental next line
     #(pkgs.waybar.overrideAttrs (oldAttrs: { mesonFlags = oldAttrs.mesonFlags ++ [ "-Dexperimental=true" ];}))
